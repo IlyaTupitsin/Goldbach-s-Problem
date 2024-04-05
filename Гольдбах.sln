@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Гольдбах", "Гольдбах\Гольдбах.csproj", "{12906B80-E1CD-42A3-9A3B-5ED773971DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12906B80-E1CD-42A3-9A3B-5ED773971DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12906B80-E1CD-42A3-9A3B-5ED773971DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12906B80-E1CD-42A3-9A3B-5ED773971DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12906B80-E1CD-42A3-9A3B-5ED773971DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD433484-E817-4B4E-B76C-BD3A1D07FC8C}
+	EndGlobalSection
+EndGlobal
